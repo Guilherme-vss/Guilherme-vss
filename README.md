@@ -19,6 +19,23 @@
 
 <hr>
 
+## Mapa - Commits
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comendo as contribuições do último ano" src="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<!--
+  O SVG acima é gerado por .github/workflows/arcade.yml e publicado no branch "output".
+  Rode o workflow em Actions se precisar atualizar na hora; fora isso ele roda sozinho todo dia.
+-->
+
+<hr>
+
 ## Sobre mim
 
 Trabalho com desenvolvimento desde 2020, sempre nas duas pontas: a API que guarda a regra de negócio e a tela por onde a pessoa usa. Passei pela CmkpTecnolog como Jr e pela Generation Brasil como Full Stack, onde mexi na plataforma de ensino que professores e alunos usavam todo dia.
@@ -85,20 +102,3 @@ Sou instrutor. Ensinar faixa branca mudou o jeito que eu explico as coisas: quan
 ### 🎸 Música
 
 Toco. É o contrapeso do dia, a parte em que errar não derruba nada em produção. Também é onde se aprende que ensaio chato é o que faz a apresentação parecer fácil.
-
-<hr>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man comendo as contribuições do último ano" src="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<!--
-  O SVG acima é gerado por .github/workflows/arcade.yml e publicado no branch "output".
-  Ele só aparece depois que o workflow rodar pela primeira vez (aba Actions > Run workflow).
-  O workflow antigo da cobrinha (snk) precisa ser removido: os dois publicam no mesmo
-  branch "output" e um sobrescreve o outro.
--->

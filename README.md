@@ -1,124 +1,104 @@
+<h1 align="center">Oi, eu sou o Guilherme 👋</h1>
+
+<p align="center">
+  <b>Desenvolvedor Full Stack</b><br>
+  Java e Spring Boot no back · Angular e React no front · São Paulo, SP
+</p>
+
+<p align="center">
+  <a href="https://wa.me/5511961221800" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-vitoor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilhermevsouza18@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
+<hr>
+
+## Sobre mim
+
+Trabalho com desenvolvimento desde 2020, sempre nas duas pontas: a API que guarda a regra de negócio e a tela por onde a pessoa usa. Passei pela CmkpTecnolog como Jr e pela Generation Brasil como Full Stack, onde mexi na plataforma de ensino que professores e alunos usavam todo dia.
+
+O que eu entrego de ponta a ponta: API REST em Java com Spring Boot, interface em Angular ou React, banco modelado pelo formato do dado (e não por hábito), Docker para subir igual em qualquer máquina e o fluxo do time organizado no Jira.
+
+Cursando Análise e Desenvolvimento de Sistemas na UNINOVE.
+
+**Back-end**<br>
+Java · Spring Boot · Maven · Hibernate · JPA · Spring Security · APIs REST · DTO · DDD · Swagger
+
+**Front-end**<br>
+Angular · React · TypeScript · JavaScript · HTML5 · CSS3
+
+**Banco e infra**<br>
+MySQL · Docker · Git e GitHub
+
+**Processo**<br>
+Metodologias ágeis · Jira · Trello
+
+<hr>
+
+## Stack
+
+**Back-end**
+
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven">
+</p>
+
+**Front-end**
+
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+</p>
+
+**Banco e infra**
+
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira">
+</p>
+
+<hr>
+
+## Fora do código
+
+Duas coisas ocupam o resto do meu tempo, e as duas acabaram virando ferramenta de trabalho.
+
+### 🥋 Karatê
+
+Sou instrutor. Ensinar faixa branca mudou o jeito que eu explico as coisas: quando a pessoa não entende, o problema está na explicação, não nela. Isso vale no dojo e vale no code review.
+
+### 🎸 Música
+
+Toco. É o contrapeso do dia, a parte em que errar não derruba nada em produção. Também é onde se aprende que ensaio chato é o que faz a apresentação parecer fácil.
+
+<hr>
+
 <div align="center">
-
-# Guilherme Vitor de Souza Santos
-
-**Desenvolvedor Full Stack** · Java • Spring Boot • Angular • TypeScript
-
-<a href="https://www.linkedin.com/in/guilherme-vitoor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:guilhermevsouza18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/guilherme_vitor_s_s" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.twitch.tv/guilherme0361" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comendo as contribuições do último ano" src="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
----
-
-## 👋 Sobre mim
-
-Construo aplicações web de ponta a ponta há quase 4 anos — da modelagem relacional e das APIs REST em
-**Java + Spring Boot** até as telas dinâmicas e responsivas em **Angular + TypeScript**.
-
-O que eu gosto mesmo é da parte chata que ninguém vê: consulta que demorava e passou a responder rápido,
-rota de autenticação que ficou de fato segura, contrato de API documentado no **Swagger** para o time da frente
-não precisar adivinhar nada. Foi assim na **Generation Brasil** e na **CMKP**.
-
-Fora do teclado sou instrutor de Karatê e músico. Parece distante de TI, mas foi ali que aprendi disciplina,
-foco e a explicar coisa difícil de um jeito simples — o que, na prática, é metade do trabalho em equipe.
-
-Hoje curso **Análise e Desenvolvimento de Sistemas** na **Universidade Nove de Julho** (2022 – 2026).
-
-<!-- TODO Guilherme: seu currículo termina em Nov/2023 e hoje é 2026. Escreva 1 ou 2 linhas aqui sobre
-     esse período (freelas, projetos pessoais, faculdade, certificações). Um perfil com buraco de 2 anos
-     sem explicação é a primeira coisa que o recrutador nota. -->
-
----
-
-## 🧰 Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados e ferramentas**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-<!-- TODO Guilherme: React e Docker não aparecem em nenhum ponto do seu currículo. Se você usa mesmo,
-     inclua no CV e cole os badges abaixo. Se não usa, deixe fora.
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--
+  O SVG acima é gerado por .github/workflows/arcade.yml e publicado no branch "output".
+  Ele só aparece depois que o workflow rodar pela primeira vez (aba Actions > Run workflow).
+  O workflow antigo da cobrinha (snk) precisa ser removido: os dois publicam no mesmo
+  branch "output" e um sobrescreve o outro.
 -->
-
----
-
-## 💼 Experiência
-
-### Generation Brasil — Desenvolvedor Full Stack
-`São Paulo, SP` · `Jul 2021 – Nov 2023`
-
-| O que fiz | Resultado |
-| --- | --- |
-| Aplicações web completas integrando Java e Angular | Redução do tempo de carregamento sob múltiplos acessos simultâneos |
-| Arquitetura de backend com APIs REST + Spring Security e JPA | Rotas de autenticação e autorização seguras e padronizadas |
-| Otimização de consultas ao banco | Menor tempo de resposta nas chamadas de API |
-| Melhorias de usabilidade e otimização de interfaces | Aumento da taxa de retenção dos alunos na plataforma |
-| Módulos de exportação de currículos em PDF e player de vídeo | Navegação mais fluida e maior satisfação dos usuários |
-| Versionamento com Git/GitHub e rituais ágeis via Jira e Trello | Fluxo de entregas organizado e previsível |
-
-### CMKP Tecnologia — Desenvolvedor
-`Jan 2020 – Jun 2021`
-
-| O que fiz | Resultado |
-| --- | --- |
-| Backend em padrão MVC com Java e Spring Boot | Maior velocidade de processamento das requisições |
-| Controllers, repositories e models para sistemas corporativos | Base estável e reaproveitável entre módulos |
-| Modelagem e gestão de banco relacional em MySQL | Estruturas de dados consistentes e integradas ao frontend |
-| Telas responsivas em Angular, TypeScript, JavaScript e CSS3 | Frontend integrado às funcionalidades do backend |
-| Documentação e validação de rotas REST com Swagger | Contratos de API claros e payloads validados |
-| Testes de consumo e mapeamento completo de rotas | Menos falhas de integração e homologação mais rápida |
-
----
-
-## 📊 GitHub
-
-<!-- Estes 2 cards dependem da instância pública gratuita do github-readme-stats, que vive
-     estourando o limite de requisições (testei em 28/08/2026 e ela respondeu HTTP 503).
-     Se os quadros aparecerem vazios, a causa é essa, não o seu README.
-     Solução definitiva: faça o seu próprio deploy no Vercel — passo a passo no ANOTACOES.md. -->
-<div align="center">
-  <img height="165" alt="Estatísticas do GitHub de Guilherme" src="https://github-readme-stats.vercel.app/api?username=Guilherme-vss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-vss&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</div>
-
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Guilherme-vss/Guilherme-vss/output/github-contribution-grid-snake.svg">
-</div>
-
----
-
-## 🎓 Formação e idiomas
-
-- **Análise e Desenvolvimento de Sistemas** — Universidade Nove de Julho · `2022 – 2026`
-- **Português** nativo · **Inglês** intermediário
-
----
-
-<div align="center">
-  <sub>São Paulo, SP · Aberto a oportunidades Full Stack, Backend Java ou Frontend Angular</sub>
-</div>
